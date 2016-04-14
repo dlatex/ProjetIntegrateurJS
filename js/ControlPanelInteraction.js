@@ -1,11 +1,9 @@
 /**
  * Created by lathd on 26/11/15.
+ *  Un exemple du listenerMap avait été fournit mais les adresses  étaient entree à la main
+ * et nous devions gerer les recuperations d'adresse via Google API 
  */
-/***
- * Une partie du listener avait été fournit et nous devions gerer les recuperations d'adresse de Google APi avec une clé de
- * connexion
- * 
- * /
+
 var map;
 var pointMarker;
 var geocoder;
