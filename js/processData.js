@@ -1,5 +1,5 @@
 
-//Donnée par le prof
+//Donnée par le prof avec un exemple que nous devons adapter à notre cas de figure
 
 /*
  *  Ce fichier represente un module
