@@ -1,7 +1,11 @@
 /**
  * Created by lathd on 26/11/15.
  */
-
+/***
+ * Une partie du listener avait été fournit et nous devions gerer les recuperations d'adresse de Google APi avec une clé de
+ * connexion
+ * 
+ * /
 var map;
 var pointMarker;
 var geocoder;
